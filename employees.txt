@@ -1,0 +1,6 @@
+104|Sneha Rao|IT|25|38.00|88.00|88.00
+101|Rahul Sharma|IT|20|40.00|85.00|85.00
+57|Vanshika|AIML|25|50.00|100.00|100.00
+102|Priya Patel|HR|15|35.00|92.00|92.00
+103|Amit Verma|Marketing|18|45.00|65.00|65.00
+105|Vikas Kumar|Sales|10|40.00|45.00|45.00
